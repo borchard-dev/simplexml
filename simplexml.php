@@ -1,7 +1,7 @@
 /*
 Plugin Name: simplexml
 Plugin URI: https://blakeborchard.com/wp-plugins
-Description: simple xml script to take information from x place and shit it out
+Description: simple php script to take information from xml doc at x place and shit it out.
 Version: 0.0.1
 Author: borchdev
 Author URI: https://blakeborchard.com
